@@ -296,6 +296,7 @@ a.active {
 .disply-table {
     display: table;
     height: 100vh;
+	color: rgb(255,255,255);
 }
 
 
