@@ -1,2 +1,2 @@
-Game Over
+<h1> Game Over </h1>
 
